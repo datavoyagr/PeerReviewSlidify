@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 * No need to program.
 * No need to install any programs or packages on your computer.
 
---- .class #id 
+---
 
 ## How it Works
 
